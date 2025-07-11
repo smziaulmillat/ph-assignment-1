@@ -81,3 +81,37 @@ nav ul li button {
     margin-right: 158px;
 
 }
+/* user styles */
+.user{
+    margin-top: 0px;
+    margin-bottom: 136px;
+    margin-left: 140px; margin-right: 140px;
+    padding: 50px 90px;
+    background-color: rgba(78, 71, 255, 0.1) ;
+    max-width: 1140px;
+    height: 250px;
+    border-radius: 24px;
+    
+}
+.user-title{
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 26px;
+}
+.user-amount{
+    display: flex;
+    gap: 150px;
+    /margin-left: 255px; */
+     text-align: center;  */
+    margin-right: 255px;
+}
+.user-col-title{
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.user-col-subtitle{
+    margin-bottom: 40px;
+}
