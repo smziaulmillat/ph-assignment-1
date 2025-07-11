@@ -115,3 +115,72 @@ nav ul li button {
 .user-col-subtitle{
     margin-bottom: 40px;
 }
+/* what styles */
+.what{
+    max-width: 1140px;
+    margin-bottom: 137px;
+}
+.what-title{
+    font-size: 42px;
+    font-weight: bold;
+    /* text-align: center; */
+    margin-left: 450px;
+}
+.what-content{
+    display: flex;
+    /* align-items: center; */ */
+}
+.what-col{
+    margin-left: 150px;
+    gap: 20px;
+}
+.what-col-title{
+    font-weight: 700;
+}
+.what-col-comment{
+    display: flex;
+}
+.what-col-comment{
+    align-items: center;
+}
+.name{
+    color: rgba(117, 117, 117, 1);
+}
+.what-col-comm-img{
+    border-radius: 50px;
+}
+.what-col-comm-content{
+    margin-left: 10px;
+}
+/* form styles */
+.form{
+    display: flex;
+}
+.form-cotent{
+    font-size: 97px;
+    font-weight: bold;
+    margin-bottom: 214px;
+}
+/* footer styles */
+.footer{
+    text-align: center;
+    /* margin-bottom: 0px; */
+    margin: 105px 300px; */
+}
+.footer-title{
+    font-size: 100px;
+    font-weight: 900;
+}
+.footer-subtitle{
+    color: #8987A1;
+    margin-top: 20px;
+}
+.footer-nav a {
+    text-decoration: none;
+    color: #8987A1;
+    /* justify-content: space-around; */
+    
+}
+.footer-nav-a{
+    margin-right: 40px;
+}
