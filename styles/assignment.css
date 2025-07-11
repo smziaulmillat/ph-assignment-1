@@ -154,12 +154,35 @@ nav ul li button {
 }
 /* form styles */
 .form{
-    display: flex;
+    display: flex; 
+    gap:auto;
+    align-items: center;
+    justify-content: center;
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-bottom: 214px;
 }
 .form-cotent{
-    font-size: 97px;
-    font-weight: bold;
-    margin-bottom: 214px;
+    font-size:50px;
+    font-weight: 500px;
+    text-align: left;
+    
+    /* max-width: 530px; */
+}
+.form-main{
+    max-width: 500px; 
+}
+.form-main input[type="text"] ,input[type="email"] ,textarea {
+    font-size: 22px;
+    font-weight: 500;
+    display: block;
+    padding: 20px 270px 20px 30px;
+    margin-bottom: 20px;
+   
+}
+.form-main label{
+    font-size: 18px;
+    font-weight: 600;
 }
 /* footer styles */
 .footer{
