@@ -75,6 +75,7 @@ nav ul li button {
 }
 .action-subtitle{
     font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
 }
 .action-img {
     border-radius: 48px;
@@ -145,6 +146,13 @@ nav ul li button {
 }
 .name{
     color: rgba(117, 117, 117, 1);
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+.date{
+    color: rgba(117, 117, 117, 1);
+    font-size: 14px;
+    margin-top: 0px;
 }
 .what-col-comm-img{
     border-radius: 50px;
